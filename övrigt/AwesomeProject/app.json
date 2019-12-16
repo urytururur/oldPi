@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "AwesomeProject",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "AwesomeProject",
+    "sdkVersion": "35.0.0",
+    "ios": {
+      "bundleIdentifier": "com.AwesomeProject.AwesomeProject"
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname"
+    }
+   }
+}

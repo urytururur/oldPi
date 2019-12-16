@@ -1,0 +1,1 @@
+Minimal mall för django-react

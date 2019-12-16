@@ -1,0 +1,3 @@
+Kör kompilatorn såhär:
+g++ async_server.cpp -o async_server -lboost_system -lpthread
+g++ client.cpp -o client -lboost_system -lpthread
